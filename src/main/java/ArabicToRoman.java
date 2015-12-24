@@ -14,6 +14,5 @@ public class ArabicToRoman {
             }
         }
         return roman;
-    }
     }//samo provjeravam
 }
